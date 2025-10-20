@@ -1,0 +1,1 @@
+export const brandImage = "https://i.postimg.cc/nrzH6V9t/logo.png"
